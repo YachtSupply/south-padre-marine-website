@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-03-24T01:11:44.325Z",
+  "specialtiesKey": "Boat Mechanics & Engine Repair,Bottom Painting & Antifouling,Fiberglass & Gelcoat Repair,Jet Ski Repair & Service,Marine Electrical & Electronics",
+  "servicesKey": "",
+  "contentVersion": "6",
+  "content": {
+    "tagline": "Expert Marine Service on South Padre Island",
+    "about": "At South Padre Marine, we are your trusted partner for comprehensive boat repair and marine services right here on South Padre Island, Texas. Located at 33256 State Park Rd 100 Suite 103, we have built a reputation as the go-to marine service center for the boating and fishing community throughout the Lower Rio Grande Valley. Whether you're running the Laguna Madre, heading offshore into the Gulf, or cruising the Intracoastal, our team of skilled marine technicians is here to keep your vessel running the way it should.\n\nOur facility handles a full range of marine work — from boat mechanics and engine repair to marine electrical and electronics diagnostics, bottom painting and antifouling treatments, fiberglass and gelcoat repair, and jet ski repair and service. We work on outboards, inboards, stern drives, and personal watercraft, bringing hands-on experience and attention to detail to every job that comes through our doors. No matter the make, model, or condition, we treat every vessel with the same level of care.\n\nWe proudly serve the boating and fishing community across South Padre Island and the surrounding Lower Rio Grande Valley region. From weekend anglers and offshore fishermen to families with jet skis and cruising boats, we understand what it means to depend on your equipment. Our team is committed to honest work, quality repairs, and getting you back on the water without unnecessary delays. When your boat needs service you can count on, South Padre Marine is where the local boating community turns.",
+    "seoTitle": "South Padre Marine | Boat Mechanics & Engine Repair South Padre Island, TX",
+    "seoDescription": "South Padre Marine offers boat repair, engine service, fiberglass, bottom painting & jet ski repair on South Padre Island, TX. Call us today.",
+    "seoKeywords": [
+      "boat repair South Padre Island TX",
+      "marine engine repair South Padre Island",
+      "jet ski repair South Padre Island TX",
+      "bottom painting antifouling South Padre Island",
+      "fiberglass gelcoat repair South Padre Island",
+      "marine electrical electronics South Padre Island TX",
+      "boat mechanic Lower Rio Grande Valley",
+      "marine service center South Padre Island TX"
+    ],
+    "serviceDescriptions": {
+      "Boat Mechanics & Engine Repair": "Our marine technicians diagnose and repair outboard, inboard, and stern drive engines, handling everything from routine tune-ups and impeller replacements to full powerhead rebuilds. We work on major engine brands and use quality parts to make sure repairs hold up under real working conditions. Keeping your engine running reliably means more time on the water and fewer unexpected breakdowns.",
+      "Marine Electrical & Electronics": "We troubleshoot and repair marine electrical systems including wiring harnesses, bilge pumps, navigation lights, and onboard electronics such as chartplotters, VHF radios, and fish finders. Electrical issues on a boat can be tricky to track down, and our technicians take a methodical approach to diagnosing faults and making clean, lasting repairs. Properly functioning electronics and electrical systems are critical to both safety and performance on the water.",
+      "Bottom Painting & Antifouling": "We apply antifouling bottom paint to protect hulls from barnacle growth, algae, and marine organisms that can slow your vessel down and damage gelcoat over time. Our process includes proper surface preparation — sanding, cleaning, and priming — before applying the appropriate antifouling coating for your vessel type and usage. Regular bottom painting is one of the most effective ways to extend the life of your hull and maintain boat performance.",
+      "Fiberglass & Gelcoat Repair": "We repair stress cracks, impact damage, osmotic blisters, and cosmetic gelcoat imperfections on fiberglass hulls and decks, restoring both structural integrity and appearance. Our technicians match gelcoat color carefully and finish repairs so they blend naturally with the surrounding surface. Whether the damage is minor cosmetic cracking or more significant structural fiberglass work, we handle it with care and precision.",
+      "Jet Ski Repair & Service": "We service and repair personal watercraft including Sea-Doos, Waverunners, and other PWC models, covering engine diagnostics, impeller replacement, hull repairs, and routine maintenance. Jet skis take a beating in saltwater environments, and staying on top of service intervals keeps them performing reliably season after season. We work on both older and newer model personal watercraft to get them back in the water quickly."
+    },
+    "serviceAreaDescription": "South Padre Marine is based in South Padre Island, TX and provides marine services throughout the surrounding region.",
+    "commonProjects": [
+      "Outboard engine diagnosis and repair for fishing and recreational boats",
+      "Antifouling bottom paint application with full hull surface preparation",
+      "Marine wiring repair and navigation electronics installation",
+      "Fiberglass hull crack and impact damage restoration",
+      "Jet ski engine service and impeller replacement",
+      "Gelcoat color matching and cosmetic hull repair",
+      "Full marine electrical system inspection and troubleshooting"
+    ],
+    "serviceAreaLocalities": [
+      "South Padre Island, TX",
+      "Port Isabel, TX",
+      "Brownsville, TX",
+      "Harlingen, TX",
+      "Los Fresnos, TX"
+    ],
+    "serviceAreaTitle": "Our Service Area"
+  }
+}
