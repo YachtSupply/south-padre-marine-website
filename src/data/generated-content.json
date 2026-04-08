@@ -42,6 +42,26 @@
       "Harlingen, TX",
       "Los Fresnos, TX"
     ],
-    "serviceAreaTitle": "Our Service Area"
-  }
+    "serviceAreaTitle": "Our Service Area",
+    "reviewSynopsis": {
+      "aggregateRating": 3,
+      "totalReviewCount": 6,
+      "boatworkReviewCount": 0,
+      "googleReviewCount": 6,
+      "summary": "Our customers have shared a range of experiences working with us, reflected in our 3.0 out of 5 star rating across 6 Google reviews. We recognize that we have opportunities to improve and are committed to delivering better service and results for every boat owner who trusts us with their vessel. We appreciate all feedback as it helps us grow and continue serving the South Padre Island boating community.",
+      "keywords": [
+        "marine services",
+        "boat repair",
+        "South Padre Island",
+        "watercraft maintenance",
+        "local marine shop",
+        "boat service",
+        "customer experience"
+      ],
+      "sources": [
+        "google"
+      ]
+    }
+  },
+  "synopsisUpdatedAt": "2026-04-08T13:20:17.096Z"
 }
